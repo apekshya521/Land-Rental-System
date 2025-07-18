@@ -1,0 +1,9 @@
+101,Kathmandu,North,4,50000,Available
+102,Nepalgunj,East,5,100000,Not Available
+103,Danagadhi,South,10,500000,Not Available
+104,Bardaghat,west,6,900000,Available
+105,Godawari,south,12,150000,Available
+106,Tilottama,East,15,590000,Available
+107,Chisapani,west,3,40000,Available
+108,Biratnagar,North,20,900000,Available
+109,NawalParasi,East,13,120000,Available

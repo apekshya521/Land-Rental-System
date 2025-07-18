@@ -1,0 +1,42 @@
+************ Rent Invoice ************
+
+Kitta Number: 102
+City/District: Nepalgunj
+Direction: East
+Area (Anna): 5
+Price (NPR): 100000
+Customer Name: a
+Rent Duration (months): 12
+Total Amount (NPR): 1200000
+
+Rental Date: 2024-05-07
+
+Grand Total upto here: 1200000
+************ Rent Invoice ************
+
+Kitta Number: 103
+City/District: Danagadhi
+Direction: South
+Area (Anna): 10
+Price (NPR): 500000
+Customer Name: a
+Rent Duration (months): 11
+Total Amount (NPR): 5500000
+
+Rental Date: 2024-05-07
+
+Grand Total upto here: 6700000
+************ Rent Invoice ************
+
+Kitta Number: 108
+City/District: Biratnagar
+Direction: North
+Area (Anna): 20
+Price (NPR): 900000
+Customer Name: a
+Rent Duration (months): 12
+Total Amount (NPR): 10800000
+
+Rental Date: 2024-05-07
+
+Grand Total upto here: 17500000

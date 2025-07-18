@@ -1,0 +1,30 @@
+************ Return Invoice ************
+
+Kitta Number: 101
+City/District: Kathmandu
+Direction: North
+Area (Anna): 4
+Price (NPR): 50000
+Customer Name: a
+Rent Duration (months): 11
+
+Return Date: 2024-05-07
+Fine for returning late: 5000.0
+Total Amount (NPR): 555000.0
+
+Grand Total upto here: 555000.0
+************ Return Invoice ************
+
+Kitta Number: 108
+City/District: Biratnagar
+Direction: North
+Area (Anna): 20
+Price (NPR): 900000
+Customer Name: a
+Rent Duration (months): 11
+
+Return Date: 2024-05-07
+Fine for returning late: 90000.0
+Total Amount (NPR): 9990000.0
+
+Grand Total upto here: 10545000.0
